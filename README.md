@@ -6,6 +6,9 @@
 - 📖 Avid reader, language enthusiast
 - ⚡ Fun fact: my best ideas strike me when I'm brushing my teeth
 
+# My most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gab-che&layout=compact)](https://github.com/gab-che/github-readme-stats)
+
 
 <!--
 **gab-che/gab-che** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
