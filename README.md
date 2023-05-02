@@ -6,8 +6,12 @@
 - 📖 Avid reader, language enthusiast
 - ⚡ Fun fact: my best ideas strike me when I'm brushing my teeth
 
-# My most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gab-che&layout=compact)](https://github.com/gab-che/github-readme-stats)
+### My most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gab-che&layout=compact&theme=blue-green)](https://github.com/gab-che/github-readme-stats)
+
+
+### Talk to me in
+:it: :uk: :de: :fr:
 
 
 <!--
